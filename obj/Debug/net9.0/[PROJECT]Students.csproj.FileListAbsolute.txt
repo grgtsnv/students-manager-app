@@ -1,0 +1,14 @@
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.AssemblyInfoInputs.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.AssemblyInfo.cs
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.csproj.CoreCompileInputs.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/bin/Debug/net9.0/[PROJECT]Students
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/bin/Debug/net9.0/[PROJECT]Students.deps.json
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/bin/Debug/net9.0/[PROJECT]Students.runtimeconfig.json
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/bin/Debug/net9.0/[PROJECT]Students.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/bin/Debug/net9.0/[PROJECT]Students.pdb
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/refint/[PROJECT]Students.dll
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.pdb
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/[PROJECT]Students.genruntimeconfig.cache
+/Users/georgitsanev/Documents/C# Course/[PROJECT]Students/obj/Debug/net9.0/ref/[PROJECT]Students.dll
